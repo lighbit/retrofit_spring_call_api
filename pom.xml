@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<springframework.version>4.3.1.RELEASE</springframework.version>
+		<springframework.version>6.0.0</springframework.version>
 		<springsecurity.version>4.1.1.RELEASE</springsecurity.version>
 		<jackson.library>2.7.5</jackson.library>
 		<retrofit.library>2.6.2</retrofit.library>
